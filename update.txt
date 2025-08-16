@@ -1,0 +1,6 @@
+new update 
+
+added?
+just fixed keyauth bug on it! so keys start with KEYAUTH instead of the custom one for now until next update push!
+
+download link: https://gofile.io/d/hGCweF
